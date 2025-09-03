@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+145299,"Concierge Services",2017-10-07,167579,33515.8,201095,USD
+609805,"Waste management services",2017-10-25,247432,49486.4,296918,RON
+832040,"Concierge Services",2017-10-21,66182,13236.4,79418.4,RON
+473476,"Concierge Services",2017-10-09,207480,41496,248976,EUR

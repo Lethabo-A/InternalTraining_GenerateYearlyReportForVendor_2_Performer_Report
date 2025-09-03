@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+361387,"Beverages and Catering",2017-07-14,156895,31379,188274,RON
+942162,"Professional Services",2017-07-26,169949,33989.8,203939,EUR
+975152,"Waste management services",2017-07-04,67720,13544,81264,USD
+558560,"IT Support",2017-07-07,73811,14762.2,88573.2,CAD

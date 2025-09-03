@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-c_0xzdq30G1gNOmAno0Fw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="001d0a46-91f5-44f4-a87b-df32af669ca1" CvTextArea="759, 125, 408, 16" CvTextArgument="No report found for this vendor / month / year that you have specified." CvType="Text" DesignTimeRectangle="760, 122, 416, 18" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='No report found for this vendor / month / year that you have spe*' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='No report found for this vendor / month / year that you have spe*' role='text' automationid='' check:fulltext='No report found for this vendor / month / year that you have specified.' /&gt;" Guid="f6fc84ef-61a9-48fa-92ee-0c4ed29280a5" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Download Monthly Report and 3 more pages - Work *' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="001d0a46-91f5-44f4-a87b-df32af669ca1" CvTextArea="758, 97, 177, 16" CvTextArgument="acme-test.uipath.com says" CvType="Text" DesignTimeRectangle="758, 97, 177, 16" ElementType="Text" Guid="5511a4f1-0cf8-4f84-b1c6-36637b8ac9a9" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8ec8f274973c4987c16792e79c9a221c.png" xmlns="">032oJZOLz9UmpJUJb2yfbdQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

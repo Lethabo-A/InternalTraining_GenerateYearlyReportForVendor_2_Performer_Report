@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Rk44isTbiEmNT0OE0XwuUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/107136228" CVScreenId="995e47e2-c527-49dd-ad8f-732afef32a62" CvTextArea="346, 370, 91, 16" CvTextArgument="Work Items" CvType="Text" DesignTimeRectangle="349, 368, 88, 20" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Work Items' tag='A' type='' class='' check:innerText='Work Items' /&gt;" Guid="f119c75d-9357-4112-b7f2-18774b2c8e75" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="995e47e2-c527-49dd-ad8f-732afef32a62" CvTextArea="254, 275, 623, 38" CvTextArgument="Work Items - Work Item Details" CvType="Text" DesignTimeRectangle="257, 270, 1425, 61" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                                                                                                                                                     Work Items                                                                                                                                         -                                                 Work Item Details                                                         ' check:innerText='Work Items - Work Item Details' /&gt;" Guid="747696c4-92b0-4a83-8030-443dec2b6326" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d3688d36ac7171251861df1da9852366.png" xmlns="">09c9pUUukvkmvoY5FmiYyDQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

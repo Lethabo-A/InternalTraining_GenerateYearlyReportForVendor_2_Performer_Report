@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4bsfDDzkz0m2McZP2yhRlQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/107136233" CVScreenId="5e6c4f64-fb8e-4776-a58c-ebf0b89ba857" CvTextArea="544, 462, 68, 13" CvType="AnyWordGroup" DesignTimeRectangle="544, 462, 68, 13" DesignTimeScaleFactor="1" ElementType="Text" Guid="30be28b6-1328-45c2-90a6-2fedd0067da0" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5e6c4f64-fb8e-4776-a58c-ebf0b89ba857" CvTextArea="498, 462, 43, 13" CvTextArgument="TaxID:" CvType="Text" DesignTimeRectangle="499, 461, 42, 16" FuzzySelectorArgument="&lt;webctrl tag='B' type='' class='' aaname='TaxID:' check:innerText='TaxID:' /&gt;" Guid="21e22878-b908-49de-928b-9d088fcfbd1b" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="5e6c4f64-fb8e-4776-a58c-ebf0b89ba857" CvTextArea="497, 430, 154, 16" CvTextArgument="Vendor Information" CvType="Text" DesignTimeRectangle="499, 430, 373, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H4' type='' class='' aaname='Vendor Information' check:innerText='Vendor Information' /&gt;" Guid="26c94fc2-a304-4c44-b517-22b2828b6612" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3bebd93c2de5a2ea22d20f4fe7f209aa.png" xmlns="">0Vkumv7f6mkmWAhccqRSiQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

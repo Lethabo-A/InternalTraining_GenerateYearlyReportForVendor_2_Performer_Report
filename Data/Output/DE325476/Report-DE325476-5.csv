@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+452952,"Beverages and Catering",251290,50258,301548,RON,2017-05-04
+160672,"Various paper supplies",150140,30028,180168,USD,2017-05-18

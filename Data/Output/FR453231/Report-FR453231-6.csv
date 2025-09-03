@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+888186,"IT Support",2017-06-19,63929,12785.8,76714.8,USD
+107382,"Beverages and Catering",2017-06-20,12253,2450.6,14703.6,USD
+496821,"Professional Services",2017-06-25,111123,22224.6,133348,EUR
+592541,"Concierge Services",2017-06-05,135096,27019.2,162115,USD

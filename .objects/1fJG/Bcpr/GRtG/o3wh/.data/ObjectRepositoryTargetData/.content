@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XDb9HZngMEyLqK964jqCuQ" Reference="vGE1woyv8U2YIH0qHBwVWg/o3whA4Qhfk6DpoiFJGIzJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="3235a191-1170-4dc9-b57b-cec25bc5cd59" CvElementArea="466, 560, 223, 36" CvType="InputBox" DesignTimeRectangle="468, 561, 220, 34" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='2024' aria-role='button' tag='BUTTON' type='button' class='btn dropdown-toggle btn-default' /&gt;" Guid="04c58f61-dac1-4258-af74-c759e2afd1f5" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3235a191-1170-4dc9-b57b-cec25bc5cd59" CvTextArea="467, 539, 35, 13" CvTextArgument="Year:" CvType="Text" DesignTimeRectangle="468, 536, 34, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Year:' tag='LABEL' type='' class='' check:innerText='Year:' /&gt;" Guid="049190ed-f821-4bc3-b115-99b040f22a53" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="91ebb2a9ef74759d4f19455f542ed01f.png" xmlns="">0vqSpVwM1LEiJKwFp2IZAEQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

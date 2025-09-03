@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+998825,"Beverages and Catering",281910,56382,338292,CAD,2017-07-12
+403747,"Professional Services",103125,20625,123750,CAD,2017-07-24
+261738,"Beverages and Catering",118796,23759.2,142555,USD,2017-07-12
+667411,"Waste management services",144101,28820.2,172921,CAD,2017-07-10
